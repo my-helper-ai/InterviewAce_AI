@@ -1,0 +1,54 @@
+domain	question	answer	difficulty	topic
+Python	What is Python?	Python is a high-level interpreted programming language known for its simple syntax and extensive libraries.	Easy	Basics
+Python	What is a list in Python?	A list is an ordered mutable collection that can store multiple values and different data types.	Easy	Data Structures
+Python	What is a tuple in Python?	A tuple is an ordered immutable collection of elements.	Easy	Data Structures
+Python	What is a dictionary in Python?	A dictionary stores data as key-value pairs and provides fast access using keys.	Easy	Data Structures
+Python	What is a decorator in Python?	A decorator is a function that modifies or extends the behavior of another function without changing its source code.	Medium	Functions
+Python	What is the difference between list and tuple?	A list is mutable while a tuple is immutable. Lists are generally used when data may change and tuples when data should remain fixed.	Medium	Data Structures
+Python	What is exception handling?	"Exception handling allows a program to handle runtime errors using constructs such as try, except, else and finally."	Easy	Error Handling
+Python	What is object oriented programming?	Object oriented programming organizes software around objects and classes and supports concepts such as inheritance encapsulation polymorphism and abstraction.	Medium	OOP
+				
+SQL	What is SQL?	SQL is a language used to create manage query and manipulate data stored in relational databases.	Easy	Basics
+SQL	What is a primary key?	A primary key uniquely identifies each record in a database table and cannot contain duplicate values.	Easy	Constraints
+SQL	What is a foreign key?	A foreign key is a column that establishes a relationship between tables by referencing a primary key or unique key in another table.	Easy	Constraints
+SQL	What is a JOIN?	A JOIN combines rows from two or more tables using a related column between them.	Easy	Joins
+SQL	What is the difference between WHERE and HAVING?	WHERE filters rows before grouping while HAVING filters groups after GROUP BY is applied.	Medium	Queries
+SQL	What is GROUP BY?	GROUP BY groups rows having similar values so aggregate functions can be applied to each group.	Easy	Aggregation
+SQL	What is normalization?	Normalization is the process of organizing database tables to reduce redundancy and improve data integrity.	Medium	Database Design
+SQL	What is an index?	An index is a database structure that improves the speed of data retrieval operations but may require additional storage.	Medium	Performance
+				
+Data Analyst	What is data analysis?	Data analysis is the process of inspecting cleaning transforming and interpreting data to discover useful information and support decision making.	Easy	Basics
+Data Analyst	What is data cleaning?	Data cleaning involves identifying and correcting missing duplicate inconsistent or incorrect data.	Easy	Data Preparation
+Data Analyst	What is an outlier?	An outlier is an observation that differs significantly from the general pattern of the dataset.	Easy	Statistics
+Data Analyst	What is data visualization?	Data visualization represents data graphically using charts plots and dashboards to make patterns and trends easier to understand.	Easy	Visualization
+Data Analyst	What is the difference between mean median and mode?	Mean is the arithmetic average median is the middle value after sorting and mode is the most frequently occurring value.	Easy	Statistics
+Data Analyst	What is correlation?	Correlation measures the strength and direction of association between two variables.	Medium	Statistics
+Data Analyst	What is a KPI?	A KPI or Key Performance Indicator is a measurable value used to evaluate progress toward a specific business objective.	Easy	Business Analytics
+Data Analyst	What is ETL?	ETL stands for Extract Transform Load and describes a process of extracting data transforming it into a suitable format and loading it into a target system.	Medium	Data Engineering
+				
+AI/ML	What is artificial intelligence?	Artificial intelligence is the field of computing concerned with creating systems capable of performing tasks that normally require human intelligence.	Easy	AI Basics
+AI/ML	What is machine learning?	Machine learning is a branch of AI in which systems learn patterns from data to make predictions or decisions.	Easy	ML Basics
+AI/ML	What is supervised learning?	Supervised learning trains a model using labeled input-output examples.	Easy	Machine Learning
+AI/ML	What is unsupervised learning?	Unsupervised learning identifies patterns or structures in data without labeled target outputs.	Easy	Machine Learning
+AI/ML	What is overfitting?	Overfitting occurs when a model learns the training data too closely and performs poorly on unseen data.	Easy	Model Evaluation
+AI/ML	What is underfitting?	Underfitting occurs when a model is too simple to capture important patterns in the training data.	Easy	Model Evaluation
+AI/ML	What is a neural network?	A neural network is a computational model consisting of interconnected layers of artificial neurons that can learn patterns from data.	Medium	Deep Learning
+AI/ML	What is RAG?	Retrieval-Augmented Generation combines information retrieval with language generation by providing relevant retrieved context to a language model.	Medium	Generative AI
+				
+Cloud Computing	What is cloud computing?	Cloud computing provides computing resources such as storage servers databases and software over the internet.	Easy	Cloud Basics
+Cloud Computing	What is IaaS?	Infrastructure as a Service provides virtualized computing resources such as virtual machines storage and networking.	Easy	Cloud Service Models
+Cloud Computing	What is PaaS?	Platform as a Service provides a managed platform for developing and deploying applications without managing the underlying infrastructure.	Easy	Cloud Service Models
+Cloud Computing	What is SaaS?	Software as a Service provides software applications to users over the internet without requiring local installation and infrastructure management.	Easy	Cloud Service Models
+Cloud Computing	What is scalability?	Scalability is the ability of a system to handle increased workload by adding resources when required.	Easy	Cloud Concepts
+Cloud Computing	What is virtualization?	Virtualization creates virtual versions of computing resources such as servers operating systems storage or networks.	Medium	Cloud Infrastructure
+Cloud Computing	What is cloud storage?	Cloud storage is a service that stores data on remote servers accessible through a network or internet.	Easy	Storage
+Cloud Computing	What is serverless computing?	Serverless computing allows developers to run application code without directly managing servers and infrastructure.	Medium	Cloud Architecture
+				
+HR Interview	Tell me about yourself.	A strong answer should briefly introduce your educational or professional background relevant skills projects achievements and career goals.	Easy	Introduction
+HR Interview	Why should we hire you?	A good answer should connect your relevant skills experience problem-solving ability and willingness to learn with the requirements of the role.	Easy	General HR
+HR Interview	What are your strengths?	Choose strengths that are relevant to the position and support them with short examples from academic projects internships or other experiences.	Easy	Self Assessment
+HR Interview	What is your weakness?	Mention a genuine but manageable weakness and explain the steps you are taking to improve it.	Easy	Self Assessment
+HR Interview	Where do you see yourself in five years?	Explain a realistic career direction showing professional growth continuous learning and increasing responsibility.	Medium	Career Goals
+HR Interview	Why do you want to join our company?	Connect your interest in the company with its work culture products technology opportunities and how the role matches your career goals.	Medium	Company Fit
+HR Interview	How do you handle pressure?	Explain how you prioritize tasks communicate clearly remain organized and focus on solving problems during stressful situations.	Easy	Behavioral
+HR Interview	Describe a challenging project you worked on.	Use a structured response describing the situation your responsibility the actions you took and the result achieved.	Medium	Behavioral

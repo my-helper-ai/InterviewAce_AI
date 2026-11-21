@@ -1,0 +1,16 @@
+API_Source,File_Name,Record_Count,Column_Count
+GitHub,github_data_analysis.csv,20,8
+GitHub,github_machine_learning.csv,20,8
+GitHub,github_python.csv,20,8
+GitHub,github_sql.csv,20,8
+Hacker News,hackernews_technology.csv,30,7
+Open Library,openlibrary_books.csv,50,7
+Remotive,remotive_cloud.csv,16,10
+Remotive,remotive_customer_support.csv,16,10
+Remotive,remotive_data.csv,16,10
+Remotive,remotive_devops.csv,16,10
+Remotive,remotive_software_dev.csv,16,10
+Stack Exchange,stackexchange_machine-learning.csv,500,8
+Stack Exchange,stackexchange_pandas.csv,500,8
+Stack Exchange,stackexchange_python.csv,500,8
+Stack Exchange,stackexchange_sql.csv,500,8

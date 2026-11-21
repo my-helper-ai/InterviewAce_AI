@@ -1,0 +1,9 @@
+﻿technology,stack_question_count,stack_avg_score,stack_max_score,stack_avg_answers,stack_total_answers,github_repository_count,github_avg_stars,github_total_stars,github_avg_forks,github_total_forks,remotive_job_count,remotive_company_count,remotive_location_count,total_activity,technology_popularity_score
+Machine Learning,500,78.32,975,5.554,2777,20,92508.1,1850162,18625.25,372505,15,3,3,535,92586.42
+SQL,500,527.478,5292,13.986,6993,20,47932.65,958653,7642.8,152856,5,1,1,525,48460.128
+Python,500,1529.282,13135,20.824,10412,20,186802.25,3736045,32129.9,642598,0,0,0,520,188331.532
+Pandas,500,357.95,4253,10.054,5027,0,0,0,0,0,0,0,0,500,357.95
+Other,0,0,0,0,0,0,0,0,0,0,45,8,5,45,0
+Data Analysis,0,0,0,0,0,20,43120.4,862408,11461.8,229236,5,1,1,25,43120.4
+Cloud Computing,0,0,0,0,0,0,0,0,0,0,5,1,1,5,0
+Software Development,0,0,0,0,0,0,0,0,0,0,5,1,1,5,0

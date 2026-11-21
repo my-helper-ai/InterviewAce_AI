@@ -168,7 +168,7 @@ if uploaded_file:
 
     with st.spinner("Processing interview documents..."):
 
-        process_document(temp_path)
+        process_document(temp_path, domain)
 
     st.sidebar.success("✅ Document Processed Successfully")
 

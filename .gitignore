@@ -1,4 +1,40 @@
+# Python environments
 venv/
+venv311/
+env/
+
+# Python cache
 __pycache__/
 *.py[cod]
+*.pyo
+
+# Jupyter temporary files
+.ipynb_checkpoints/
+
+# Environment variables and secrets
 .env
+.env.*
+!.env.example
+
+# Logs and temporary files
+*.log
+*.tmp
+*.bak
+
+# Operating system files
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# IDE files
+.vscode/
+.idea/
+
+# Model caches
+.cache/
+models/
+
+# Generated vector databases
+vector_db/
+vector_db_api/
+vector_store/

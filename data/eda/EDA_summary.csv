@@ -1,0 +1,9 @@
+technology,total_activity,technology_popularity_score,remotive_job_count,github_avg_stars,stack_avg_score
+Python,520,188331.532,0,186802.25,1529.282
+Machine Learning,535,92586.42,15,92508.1,78.32
+SQL,525,48460.128,5,47932.65,527.478
+Data Analysis,25,43120.4,5,43120.4,0.0
+Pandas,500,357.95,0,0.0,357.95
+Other,45,0.0,45,0.0,0.0
+Cloud Computing,5,0.0,5,0.0,0.0
+Software Development,5,0.0,5,0.0,0.0

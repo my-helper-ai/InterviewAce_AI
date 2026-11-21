@@ -1,0 +1,21 @@
+﻿source,topic,repository,description,language,stars,forks,url,technology
+GitHub,python,donnemartin/system-design-primer,Learn how to design large-scale systems. Prep for the system design interview. Includes Anki flashcards.,Python,364408,57902,https://github.com/donnemartin/system-design-primer,Python
+GitHub,python,vinta/awesome-python,"The definitive list that answers ""I want to do X in Python, which tool should I use?""",Python,314450,28528,https://github.com/vinta/awesome-python,Python
+GitHub,python,practical-tutorials/project-based-learning,Curated list of project-based tutorials,Python,279583,35900,https://github.com/practical-tutorials/project-based-learning,Python
+GitHub,python,TheAlgorithms/Python,All Algorithms implemented in Python,Python,223802,50968,https://github.com/TheAlgorithms/Python,Python
+GitHub,python,tensorflow/tensorflow,An Open Source Machine Learning Framework for Everyone,C++,196971,76042,https://github.com/tensorflow/tensorflow,Python
+GitHub,python,ohmyzsh/ohmyzsh,"🙃 A delightful community-driven (with 2,500+ contributors) framework for managing your zsh configuration. Includes 300+ optional plugins (rails, git, macOS, hub, docker, homebrew, node, php, python, etc), 140+ themes to spice up your morning, and an auto-update tool that makes it easy to keep up with the latest updates from the community.",Shell,189220,26582,https://github.com/ohmyzsh/ohmyzsh,Python
+GitHub,python,Significant-Gravitas/AutoGPT,"AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so that you can focus on what matters.",Python,186644,46061,https://github.com/Significant-Gravitas/AutoGPT,Python
+GitHub,python,CyC2018/CS-Notes,:books: 技术面试必备基础知识、Leetcode、计算机操作系统、计算机网络、系统设计,,185386,50792,https://github.com/CyC2018/CS-Notes,Python
+GitHub,python,jackfrued/Python-100-Days,Python - 100天从新手到大师,Jupyter Notebook,185281,55682,https://github.com/jackfrued/Python-100-Days,Python
+GitHub,python,yt-dlp/yt-dlp,A feature-rich command-line audio/video downloader,Python,185066,15944,https://github.com/yt-dlp/yt-dlp,Python
+GitHub,python,microsoft/markitdown,Python tool for converting files and office documents to Markdown.,Python,174226,12732,https://github.com/microsoft/markitdown,Python
+GitHub,python,521xueweihan/HelloGitHub,":octocat: 分享 GitHub 上有趣、入门级的开源项目。Share interesting, entry-level open source projects on GitHub.",Python,171353,12605,https://github.com/521xueweihan/HelloGitHub,Python
+GitHub,python,huggingface/transformers,"🤗 Transformers: the model-definition framework for state-of-the-art machine learning models in text, vision, audio, and multimodal models, for both inference and training.",Python,164186,34259,https://github.com/huggingface/transformers,Python
+GitHub,python,langgenius/dify,"Build Agentic workflows, RAG pipelines, with rich AI model and tool support on one collaborative workspace. Deploy on cloud, VPC, or self-hosted, so teams move from prototype to production without rebuilding the stack.",TypeScript,152705,24116,https://github.com/langgenius/dify,Python
+GitHub,python,langchain-ai/langchain,The agent engineering platform.,Python,144408,24040,https://github.com/langchain-ai/langchain,Python
+GitHub,python,Shubhamsaboo/awesome-llm-apps,"100+ AI Agents, Agent Skills and RAG Apps - Free and Open Source.",Python,132958,19562,https://github.com/Shubhamsaboo/awesome-llm-apps,Python
+GitHub,python,krahets/hello-algo,"《Hello 算法》：动画图解、一键运行的数据结构与算法教程。支持简中、繁中、English、日本語，提供 Python, Java, C++, C, C#, JS, Go, Swift, Rust, Ruby, Kotlin, TS, Dart 等代码实现",Java,129429,15509,https://github.com/krahets/hello-algo,Python
+GitHub,python,Comfy-Org/ComfyUI,"The most powerful and modular diffusion model GUI, api and backend with a graph/nodes interface.",Python,128098,15081,https://github.com/Comfy-Org/ComfyUI,Python
+GitHub,python,justjavac/free-programming-books-zh_CN,:books: 免费的计算机编程类中文书籍，欢迎投稿,,118368,28254,https://github.com/justjavac/free-programming-books-zh_CN,Python
+GitHub,python,browser-use/browser-use,🌐 Make websites accessible for AI agents. Automate tasks online with ease.,Python,109503,12039,https://github.com/browser-use/browser-use,Python

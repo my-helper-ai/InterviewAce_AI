@@ -1,0 +1,6 @@
+Insight,Technology,Observed_Value,Interpretation
+Highest technology popularity score,Python,188331.532,"This technology has the highest calculated popularity score within the current fused dataset. The score is a constructed metric, not an independently validated popularity measure."
+Highest GitHub repository count,Machine Learning,20.0,This technology has the largest repository count in the collected GitHub data represented by the fused dataset.
+Highest Stack Exchange question count,Machine Learning,500.0,This technology has the highest question count in the Stack Exchange data represented by the fused dataset.
+Highest related job count,Other,45.0,This technology has the highest number of related job listings in the collected Remotive data. This does not represent the entire job market.
+Community questions vs GitHub repositories,Multiple technologies,0.5,The association is weak or limited in this dataset. Correlation does not establish causation.
